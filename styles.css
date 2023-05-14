@@ -1,7 +1,15 @@
 /* Write your CSS here! */
-p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-  }
+<style>
+element.style{
+h1 {
+    font-size: x-large;
+}
+
+h2{
+   display: block;
+   padding: auto;
+   border-top: none;
+   color: crimson;
+   font-style: italic; 
+}
+
