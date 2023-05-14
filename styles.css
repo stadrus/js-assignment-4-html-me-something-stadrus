@@ -1,15 +1,15 @@
 /* Write your CSS here! */
-<style>
-element.style{
-h1 {
-    font-size: x-large;
+body {
+    width: 100%;
+    max-width: 1080px;
+    margin: auto;
+    background-color: bisque;
+    font-size: medium;
 }
-
-h2{
-   display: block;
-   padding: auto;
-   border-top: none;
-   color: crimson;
-   font-style: italic; 
+header,
+main,
+footer{
+    background-color: coral;
+    font-size: medium;
 }
 
