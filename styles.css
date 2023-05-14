@@ -1,15 +1,16 @@
 /* Write your CSS here! */
+header{
+    padding: 1.87em 0;
+    background-color: blueviolet;
+    font-size: medium;
+
+}
+
 body {
     width: 100%;
     max-width: 1080px;
     margin: auto;
     background-color: bisque;
-    font-size: medium;
-}
-
-header{
-    padding: 1.87em 0;
-    background-color: blueviolet;
     font-size: medium;
 }
 
