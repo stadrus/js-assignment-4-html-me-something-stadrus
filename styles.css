@@ -6,12 +6,27 @@ body {
     background-color: bisque;
     font-size: medium;
 }
-header,
-main,
-footer{
-    background-color: coral;
+
+header{
+    padding: 1.87em 0;
+    background-color: blueviolet;
     font-size: medium;
 }
-h2{
-    
+
+header h1{
+    text-align: center;
+}
+
+header h2{
+    margin: 0;
+}
+
+footer{
+    text-align: center;
+    padding: 3em;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
 }
