@@ -1,31 +1,35 @@
 /* Write your CSS here! */
+/*https://github.com/stadrus/js-assignment-4-html-me-something-stadrus.git*/
+html,header,body,h1,h2,article,footer{
+    display: block;
 
-id class.header{
+    }
+    header{
     padding: 1.87em 0;
     background-color: blueviolet;
     font-size: medium;
 
-}
-<element>
+    }   
 
-body {
+    body {
+    
     width: 100%;
     max-width: 1080px;
     margin: auto;
     background-color: bisque;
     font-size: medium;
-}
+    }   
 
-header h1{
+    header h1{
+    text-decoration-style: wavy;
     text-align: center;
-}
+    }
 
-header h2{
-    margin: 0;
-}
+    header h2 {
+    background-color: blue;
+    }
 
-footer{
+    footer{
     text-align: center;
     padding: 3em;
 }
-
