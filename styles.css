@@ -1,11 +1,15 @@
 /* Write your CSS here! */
 /*https://github.com/stadrus/js-assignment-4-html-me-something-stadrus.git*/
 html,header,body,h1,h2,article,footer{
-    display: block;
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 
     }
     header{
-    padding: 1.87em 0;
     background-color: blueviolet;
     font-size: medium;
 
