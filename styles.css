@@ -8,11 +8,11 @@ html,header,body,h1,h2,article,footer{
 	font: inherit;
 	vertical-align: baseline;
 
-    }
-   #idmainHeader {
-        font-size: xx-large;
-        text-align: center;
-        color:red;
+}
+    #mainHeading {
+    font-size: xx-large;
+    text-align: center;
+    color:red;      
 
     }   
 
@@ -25,15 +25,17 @@ html,header,body,h1,h2,article,footer{
     font-size: large;
     }   
 
-    #idheader h2 {
+    header h2 {
     font-size: medium;
     font-style: italic;
+    }
+
+    #testP.funParagraph  {
+    color: green;
     }
 
     footer{
     text-align: center;
     padding: 3em;
 }
- #testP.funParagraph {
-    color: green;
- }
+ 
