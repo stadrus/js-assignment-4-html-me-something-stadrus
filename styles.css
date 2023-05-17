@@ -9,11 +9,10 @@ html,header,body,h1,h2,article,footer{
 	vertical-align: baseline;
 
     }
-    header {
-    background-color: red;
-    font-size: xx-large;
-    text-align: center;
-    color: black;
+   #idmainHeader {
+        font-size: xx-large;
+        text-align: center;
+        color:red;
 
     }   
 
@@ -35,4 +34,6 @@ html,header,body,h1,h2,article,footer{
     text-align: center;
     padding: 3em;
 }
-
+ #testP.funParagraph {
+    color: green;
+ }
